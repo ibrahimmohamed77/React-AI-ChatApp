@@ -20,5 +20,5 @@ A simple AI-powered chat application built with **React.js** that connects to mu
 
 1. Clone this repository to your local machine:
 ```bash
-git clone [https://github.com/اكتب_اسم_حسابك_هنا/React-AI-ChatApp.git](https://github.com/اكتب_اسم_حسابك_هنا/React-AI-ChatApp.git)
+git clone [https://github.com/ibrahimmohamed77/React-AI-ChatApp.git](https://github.com/ibrahimmohamed77/React-AI-ChatApp.git)
 cd React-AI-ChatApp
